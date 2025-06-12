@@ -12,7 +12,7 @@ Feel free to check out my projects and connect with me!
 - ⚡ Fun fact: nobody cared untill i put on the mask 🦇
 
 ## 🛠️ Languages and Tools
-![Languages and Tools](https://skillicons.dev/icons?i=flutter,nextjs,dart,tailwind,github)
+![Languages and Tools](https://skillicons.dev/icons?i=flutter,nextjs,dart,tailwind,mongodb,mysql,firebase,vercel,github)
 
 ## 📈 GitHub Stats
 ![AshrafuHussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafuHussein&show_icons=true&hide_title=true)
