@@ -10,12 +10,22 @@
 ---
 
 ## 🌐 Socials
-<p align="left">
-  <a href="https://facebook.com/Ash lizer" target="_blank"><img alt="Facebook" src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://instagram.com/ash_tek255" target="_blank"><img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://tiktok.com/@ash_lizer" target="_blank"><img alt="TikTok" src="https://skillicons.dev/icons?i=tiktok" /></a>
-  <a href="https://x.com/ashtek255" target="_blank"><img alt="X (Twitter)" src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:ashrafuhussien@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" /></a>
+<p>
+  <a href="https://facebook.com/Ash lizer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
+  </a>
+  <a href="https://instagram.com/ash_tek255">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
+  </a>
+  <a href="https://tiktok.com/@ash_lizer">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28" />
+  </a>
+  <a href="https://x.com/ashtek255">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" />
+  </a>
+  <a href="mailto:ashrafuhussien@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
 </p>
 
 ---
