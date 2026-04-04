@@ -1,60 +1,28 @@
-# 💫 About Me:
-**Me**  
-🌱 I'm currently working on: **Home Treatment App**  
-📚 I'm currently learning: **Dart and Flutter**  
-🤝 I'm looking to collaborate on: **Web and Mobile App Development**  
-💬 Ask me about: **Web Development, App Development, Comics, DCEU**  
-📫 How to reach me: **ashrafuhussien@gmail.com**  
-🎭 Fun fact: *Nobody cared until I put on the mask.*
+<h1 align="center">Hi 👋, I'm ashraf hussein</h1>
+<h3 align="center">A passionate fullstack developer from Tanzania</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafuhussein&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafuhussein" /> </p>
 
-## 🌐 Socials
-<p>
-  <a href="https://facebook.com/Ash lizer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
-  </a>
-  <a href="https://instagram.com/ash_tek255">
-    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
-  </a>
-  <a href="https://tiktok.com/@ash_lizer">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28" />
-  </a>
-  <a href="https://x.com/ashtek255">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" />
-  </a>
-  <a href="mailto:ashrafuhussien@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafuhussein" alt="ashrafuhussein" /></a> </p>
+
+- 🔭 I’m currently working on **SONNOH**
+
+- 👨‍💻 All of my projects are available at [https://ashrafuhussein-7219b.web.app/](https://ashrafuhussein-7219b.web.app/)
+
+- 💬 Ask me about **flutter dart git & github**
+
+- 📫 How to reach me **ashrafuhussien@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashtek255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashtek255" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-## 🛠️ Languages and Tools
-![Languages and Tools](https://skillicons.dev/icons?i=flutter,dart,nextjs,js,html,css,tailwind,bootstrap,nodejs,java,mysql,mongodb,firebase,vercel,aws,gcp,cloudflare,github,git,figma,canva)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafuhussein&show_icons=true&locale=en&layout=compact" alt="ashrafuhussein" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafuhussein&show_icons=true&locale=en" alt="ashrafuhussein" /></p>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AshrafuHussein&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshrafuHussein&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafuHussein&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshrafuHussein&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshrafuHussein&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AshrafuHussein&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuhussein&" alt="ashrafuhussein" /></p>
